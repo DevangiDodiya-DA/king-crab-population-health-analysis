@@ -214,15 +214,15 @@ The Tableau dashboard includes:
 
 ### Correlation Analysis
 
-![Correlation Dashboard](https://github.com/DevangiDodiya-DA/king-crab-population-health-analysis/blob/main/Correlation%20Dashboard.png)
+![Correlation Dashboard](https://github.com/DevangiDodiya-DA/king-crab-population-health-analysis/blob/main/doc/images/Correlation%20Dashboard.png)
 
 ### Population Health Dashboard
 
-![Health Dashboard](https://github.com/DevangiDodiya-DA/king-crab-population-health-analysis/blob/main/Health%20Dashboard.png)
+![Health Dashboard](https://github.com/DevangiDodiya-DA/king-crab-population-health-analysis/blob/main/doc/images/Health%20Dashboard.png)
 
 ### Commercial Viability Dashboard
 
-![Commercial Dashboard](https://github.com/DevangiDodiya-DA/king-crab-population-health-analysis/blob/main/Commercial%20Dashboard.png)
+![Commercial Dashboard](https://github.com/DevangiDodiya-DA/king-crab-population-health-analysis/blob/main/doc/images/Commercial%20Dashboard.png)
 
 ---
 
